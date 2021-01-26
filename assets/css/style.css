@@ -1,7 +1,21 @@
+
+/* header*/
+
 .front-image{
     text-align: center;
+ 
+
 }
 
- .nav-bar-style{
-     padding-left: 580px;
- }
+/* carousel-section*/
+ 
+.carousel-container{
+    margin-top: 35px;
+}
+
+.main-message{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+    
