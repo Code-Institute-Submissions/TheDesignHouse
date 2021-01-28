@@ -1,21 +1,41 @@
 
-/* header*/
 
-.front-image{
-    text-align: center;
- 
+/*logo-image*/
 
-}
-
-/* carousel-section*/
- 
-.carousel-container{
+.logo{
     margin-top: 35px;
 }
 
-.main-message{
-    text-align: center;
-    margin-top: 15px;
-    margin-bottom: 15px;
+/*navbar*/
+
+.top-margin{
+    margin-top: 25px;
 }
+
+a{ margin-left: 0;
+    margin-right:50px;
+    font-size: medium;
     
+}
+
+.no-padding{
+    padding:0;
+    
+}
+
+
+.fit-size{
+    
+    height: 550px;
+}
+
+@media only screen and (max-width:576px){
+    .fit-size{
+        height:auto;
+    }
+}
+ 
+
+
+
+
