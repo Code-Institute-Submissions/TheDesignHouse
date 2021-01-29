@@ -1,5 +1,10 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&display=swap');
 
+body{
+    background-color:#faebd740;
+    
+}
 /*logo-image*/
 
 .logo{
@@ -8,15 +13,23 @@
 
 /*navbar*/
 
-.top-margin{
+.navbar{
     margin-top: 25px;
 }
 
-a{ margin-left: 0;
+.navbar a{ margin-left: 0;
     margin-right:50px;
     font-size: medium;
-    
+    font-family: "Raleway" , sans-serif;
+    font-weight: 600; 
+    color: rgba(0, 0, 0, 1.5);   
 }
+
+.navbar a:hover{
+    color:rgba(0, 0, 0, 0.5);
+}
+
+
 
 .no-padding{
     padding:0;
@@ -35,28 +48,93 @@ a{ margin-left: 0;
 .main-message{
     text-align: center;
     margin-top: 25px;
-}
+    font-family: "Raleway" , sans-serif;
+    font-weight: 600;}
 
-.welcome p{
+    
+    .welcome p{
     text-align: justify;
+    font-family: "Raleway" , sans-serif;
+    font-weight:300;
 }
 
+.welcome h4{
+     font-family:"Raleway" , sans-serif;
+    font-weight:600;
+
+}
 /*button*/
 
-.button{
+.button {
     text-align: center;
     margin-top: 50px;
+    border-color:  rgba(0, 0, 0, 1.5);
+
+}
+
+.button a:hover{
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.button a{
+    color: rgba(0, 0, 0, 1.5);
+    background-color:#faebd740;
+}
+
+/*social-icons*/
+
+.follow-us{
+    text-align: center;
+    margin-top: 25px;
+    font-family: "Raleway" , sans-serif;
+    font-weight: 600;
+}
+
+.central-icons{
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 70px;
+
+}
+
+a :hover{
+    color:rgba(0, 0, 0, 0.5);
+} 
+
+i{
+    font-size:50px;
+    color:rgba(0, 0, 0, 1.5);
+    padding-right:70px;
 }
 
 @media only screen and (max-width:576px){
+    
+
     .fit-size{
-        height:auto;
+        height:200px;
     }
     .button{
         margin-top:25px;
     }
+
+    .button a{
+        margin-left: 50px;
+    }
+
+
+    i{
+        font-size: x-large;
+        padding-right:25px;
+    }
+
+    .follow-us h3{
+        padding-left: 50px;
+    }
 }
  
+
+
 
 
 
