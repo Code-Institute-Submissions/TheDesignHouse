@@ -29,9 +29,31 @@ a{ margin-left: 0;
     height: 550px;
 }
 
+
+/*Welcome*/
+
+.main-message{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.welcome p{
+    text-align: justify;
+}
+
+/*button*/
+
+.button{
+    text-align: center;
+    margin-top: 50px;
+}
+
 @media only screen and (max-width:576px){
     .fit-size{
         height:auto;
+    }
+    .button{
+        margin-top:25px;
     }
 }
  
