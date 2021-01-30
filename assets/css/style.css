@@ -57,7 +57,8 @@ body{
 
 .welcome h4{
      font-family:"Raleway" , sans-serif;
-    font-weight:600;
+     font-weight:600;
+    
 
 }
 /*button*/
@@ -96,7 +97,7 @@ body{
 
 }
 
-a :hover{
+.central-icons a :hover{
     color:rgba(0, 0, 0, 0.5);
 } 
 
@@ -108,12 +109,32 @@ i{
 
 /*project-page*/
 
-.project-name{
+.projects h3{
     text-align: center;
     margin-top: 25px;
+     font-family: "Raleway" , sans-serif;
+    font-weight: 600;
+}
     
 
+
+
+.projects p{
+    text-align: justify;
+    font-family: "Raleway" , sans-serif;
+    font-weight:300;
+    margin-top: 25px;
+
 }
+
+.projects a{
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.5);
+}
+
+
+
+
 
 @media only screen and (max-width:576px){
     
@@ -121,13 +142,28 @@ i{
     .fit-size{
         height:200px;
     }
+    
+    .welcome h4{
+        text-align: center;
+    }
+    
     .button{
         margin-top:25px;
     }
 
     .button a{
         margin-left: 50px;
+        margin-right:40px;
     }
+
+    .central-icons{
+        padding-left: 50px;
+
+    }
+   
+    
+    
+    
 
 
     i{
@@ -135,8 +171,10 @@ i{
         padding-right:25px;
     }
 
-    .follow-us h3{
-        padding-left: 50px;
+    
+
+    .projects p{
+        font-size:x-small;
     }
 }
  
@@ -145,6 +183,10 @@ i{
     .fit-size{
         height:380px;
         margin-top: 25px;
+    }
+
+    .welcome h4{
+        text-align: center;
     }
 }
 
