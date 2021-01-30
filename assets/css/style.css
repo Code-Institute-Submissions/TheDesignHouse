@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&display=swap');
 
 body{
-    background-color:#faebd740;
+    background-color:whitesmoke;
     
 }
 /*logo-image*/
@@ -25,9 +25,9 @@ body{
     color: rgba(0, 0, 0, 1.5);   
 }
 
-.navbar a:hover{
-    color:rgba(0, 0, 0, 0.5);
-}
+
+
+
 
 
 
@@ -37,10 +37,7 @@ body{
 }
 
 
-.fit-size{
-    
-    height: 550px;
-}
+
 
 
 /*Welcome*/
@@ -68,7 +65,7 @@ body{
 .button {
     text-align: center;
     margin-top: 50px;
-    border-color:  rgba(0, 0, 0, 1.5);
+    
 
 }
 
@@ -79,7 +76,8 @@ body{
 
 .button a{
     color: rgba(0, 0, 0, 1.5);
-    background-color:#faebd740;
+    background-color:whitesmoke;
+    border-color:  rgba(0, 0, 0, 1.5);
 }
 
 /*social-icons*/
@@ -108,6 +106,15 @@ i{
     padding-right:70px;
 }
 
+/*project-page*/
+
+.project-name{
+    text-align: center;
+    margin-top: 25px;
+    
+
+}
+
 @media only screen and (max-width:576px){
     
 
@@ -134,7 +141,20 @@ i{
 }
  
 
+@media only screen and (min-width:768px){
+    .fit-size{
+        height:380px;
+        margin-top: 25px;
+    }
+}
 
+
+@media only screen and (min-width:992px){
+    .fit-size{
+    
+    height: 550px;
+}
+}
 
 
 
