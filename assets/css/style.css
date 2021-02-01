@@ -133,6 +133,31 @@ i{
 }
 
 
+/*colour painting package*/
+
+.center-picture{
+    text-align: center;
+    margin-top:75px;
+    padding-right:7rem;
+}
+
+   
+   .center-picture img{
+       border-radius: 50%;
+   }
+
+   .content-square h6{
+       text-align: start;
+       margin-top: 75px;
+   }
+
+   .content-square p{
+       text-align: justify;
+       width: 450px;
+
+   }
+
+    
 
 
 
