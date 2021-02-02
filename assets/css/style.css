@@ -5,6 +5,9 @@ body{
     background-color:whitesmoke;
     
 }
+
+
+
 /*logo-image*/
 
 .logo{
@@ -132,30 +135,41 @@ i{
     color:rgba(0, 0, 0, 0.5);
 }
 
+/*services*/
 
 /*colour painting package*/
 
-.center-picture{
+.circle-picture{
     text-align: center;
     margin-top:75px;
-    padding-right:7rem;
+    
 }
 
    
-   .center-picture img{
-       border-radius: 50%;
+   .circle-picture img{
+       border-radius: 75%;
    }
 
-   .content-square h6{
-       text-align: start;
-       margin-top: 75px;
-   }
-
-   .content-square p{
+   .content-square{
+       margin-top: 8rem;
        text-align: justify;
-       width: 450px;
+      padding-right:20px;
 
    }
+
+   .center-get-in-touch{
+       margin-left: 80px;
+   }
+    
+    
+
+   
+
+    
+
+
+   
+   
 
     
 
@@ -169,7 +183,7 @@ i{
     }
     
     .welcome h4{
-        text-align: center;
+        text-align:center;
     }
     
     .button{
@@ -186,11 +200,7 @@ i{
 
     }
    
-    
-    
-    
-
-
+   
     i{
         font-size: x-large;
         padding-right:25px;
@@ -201,7 +211,21 @@ i{
     .projects p{
         font-size:x-small;
     }
-}
+
+     .content-square p{
+       text-align: justify;
+       width:350px;
+       font-size:x-small;
+    }
+
+    ul{
+        font-size: x-small;
+    }
+    
+     
+
+    }
+    
  
 
 @media only screen and (min-width:768px){
@@ -216,13 +240,18 @@ i{
 }
 
 
+
+    
+
+    
+
+
 @media only screen and (min-width:992px){
     .fit-size{
     
     height: 550px;
 }
 }
-
 
 
 
