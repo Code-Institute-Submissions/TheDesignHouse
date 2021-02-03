@@ -167,7 +167,11 @@ i{
       font-weight:300;
    }
 
-   /*contact-details*/
+    ul{
+         font-family: "Raleway" , sans-serif;
+      font-weight:300;
+    }
+   /*sign-up*/
 
    .center-contact{
        text-align: center;
@@ -186,7 +190,37 @@ i{
        font-weight:300;
    }
 
-  
+   .space-lines a{
+       color:black
+   }
+   
+   .sign-up h2{
+       font-family: "Raleway" , sans-serif;
+       font-weight:bold;
+       text-align: center;
+       margin-top: 25px;
+       
+   }
+
+   .sign-up h2:hover{
+       color:green;
+   }
+        
+
+   .sign-up p{
+       text-align: center;
+       font-family: "Raleway" , sans-serif;
+       font-weight:300;
+       margin-top: 25px;
+   }
+    
+    .sign-form{
+        margin-top: 25px;
+    }   
+       
+   
+
+   
     
 
    
