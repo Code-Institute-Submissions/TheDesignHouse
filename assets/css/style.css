@@ -154,13 +154,39 @@ i{
        margin-top: 8rem;
        text-align: justify;
       padding-right:20px;
+      font-family: "Raleway" , sans-serif;
+      font-weight: 600;
 
    }
 
-   .center-get-in-touch{
-       margin-left: 80px;
+   .content-square p{
+       
+       text-align: justify;
+      padding-right:20px;
+      font-family: "Raleway" , sans-serif;
+      font-weight:300;
    }
-    
+
+   /*contact-details*/
+
+   .center-contact{
+       text-align: center;
+   }
+
+
+   .space-lines{
+       margin-top:25px;
+       font-family: "Raleway" , sans-serif;
+       font-weight:600;
+   }
+
+   .space-lines p{
+       margin-top: 25px;
+       font-family: "Raleway" , sans-serif;
+       font-weight:300;
+   }
+
+  
     
 
    
