@@ -49,7 +49,9 @@ body{
     text-align: center;
     margin-top: 25px;
     font-family: "Raleway" , sans-serif;
-    font-weight: 600;}
+    font-weight: 600;
+    }
+    
 
     
     .welcome p{
@@ -58,12 +60,21 @@ body{
     font-weight:300;
 }
 
-.welcome h4{
+.welcome h2{
      font-family:"Raleway" , sans-serif;
      font-weight:600;
     
 
 }
+
+.consultation h2{
+    text-align:center;
+     padding-top:25px;
+     font-family:"Raleway" , sans-serif;
+     font-weight:600;
+
+}
+
 /*button*/
 
 .button {
