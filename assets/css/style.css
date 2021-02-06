@@ -8,10 +8,12 @@ body{
 
 
 
-/*logo-image*/
+
+
 
 .logo{
     margin-top: 35px;
+
 }
 
 /*navbar*/
@@ -32,7 +34,7 @@ body{
 
 
 
-
+/*Carousel*/
 
 .no-padding{
     padding:0;
@@ -89,13 +91,13 @@ body{
 
 }
 
-.button a{
+.button {
     color: rgba(0, 0, 0, 1.5);
     background-color:whitesmoke;
     border-color:  rgba(0, 0, 0, 1.5);
 }
 
-/*social-icons*/
+/*social-media-icons*/
 
 .follow-us{
     text-align: center;
@@ -104,14 +106,14 @@ body{
     font-weight: 600;
 }
 
-.central-icons{
+.icons{
     text-align: center;
     margin-top: 25px;
     padding-left: 70px;
 
 }
 
-.central-icons a :hover{
+.icons a :hover{
     color:rgba(0, 0, 0, 0.5);
 } 
 
@@ -150,18 +152,18 @@ i{
 
 /*colour painting package*/
 
-.circle-picture{
+.services-image{
     text-align: center;
     margin-top:75px;
     
 }
 
    
-   .circle-picture img{
+   .services-image img{
        border-radius: 75%;
    }
 
-   .content-square{
+   .services{
        margin-top: 8rem;
        text-align: justify;
       padding-right:20px;
@@ -170,7 +172,7 @@ i{
 
    }
 
-   .content-square p{
+   .services p{
        
        text-align: justify;
       padding-right:20px;
@@ -182,29 +184,38 @@ i{
          font-family: "Raleway" , sans-serif;
       font-weight:300;
     }
-   /*sign-up*/
 
-   .center-contact{
+
+   /*contact-details*/
+
+   .contact-details{
        text-align: center;
    }
 
-
-   .space-lines{
+    .contact-details h6{
        margin-top:25px;
        font-family: "Raleway" , sans-serif;
        font-weight:600;
    }
 
-   .space-lines p{
+   .contact-details h2{
+       margin-top:25px;
+       font-family: "Raleway" , sans-serif;
+       font-weight:600;
+   }
+
+   .contact-details p{
        margin-top: 25px;
        font-family: "Raleway" , sans-serif;
        font-weight:300;
    }
 
-   .space-lines a{
+   .contact-details a{
        color:black
    }
    
+
+   /*newsletter-sign up*/
    .sign-up h2{
        font-family: "Raleway" , sans-serif;
        font-weight:bold;
@@ -225,28 +236,13 @@ i{
        margin-top: 25px;
    }
     
-    .sign-form{
+    .form{
         margin-top: 25px;
     }   
        
    
 
-   
-    
-
-   
-
-    
-
-
-   
-   
-
-    
-
-
-
-@media only screen and (max-width:576px){
+   @media only screen and (max-width:576px){
     
 
     .fit-size{
@@ -266,8 +262,8 @@ i{
         margin-right:40px;
     }
 
-    .central-icons{
-        padding-left: 50px;
+    .icons{
+        padding-left: 40px;
 
     }
    
@@ -283,7 +279,7 @@ i{
         font-size:x-small;
     }
 
-     .content-square p{
+     .services p{
        text-align: justify;
        width:350px;
        font-size:x-small;
@@ -293,7 +289,9 @@ i{
         font-size: x-small;
     }
     
-     
+     .services{
+         margin-top: 25px;
+     }
 
     }
     
@@ -309,13 +307,6 @@ i{
         text-align: center;
     }
 }
-
-
-
-    
-
-    
-
 
 @media only screen and (min-width:992px){
     .fit-size{
