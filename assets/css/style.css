@@ -11,6 +11,10 @@ body{
 
 
 
+
+
+
+
 .logo{
     margin-top: 35px;
 
@@ -57,7 +61,7 @@ body{
 
     
     .welcome p{
-    text-align: justify;
+    text-align: justify center;
     font-family: "Raleway" , sans-serif;
     font-weight:300;
 }
@@ -65,10 +69,36 @@ body{
 .welcome h2{
      font-family:"Raleway" , sans-serif;
      font-weight:600;
+     text-align: center;
     
 
 }
 
+/*why choose us*/
+
+.choose-us h2{
+    text-align: center;
+    font-family:"Raleway" , sans-serif;
+     font-weight:600;
+
+}
+
+.choose-us p{
+    text-align: justify center;
+    font-family: "Raleway" , sans-serif;
+    font-weight:300;
+}
+
+
+/*clients review*/
+
+.what{
+    text-align: center;
+}
+
+.review-back-colour{
+    background-color:rgba(0, 0, 0, 0.1);
+}
 .consultation h2{
     text-align:center;
      padding-top:25px;
@@ -98,6 +128,10 @@ body{
 }
 
 /*social-media-icons*/
+
+.social-back-colour{
+    background-color: rgba(0, 0, 0, 0.5);
+}
 
 .follow-us{
     text-align: center;
