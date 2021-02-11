@@ -15,12 +15,10 @@ body{
 
 .navbar{
     margin-top: 50px;
-    margin-left:50px;
+    
 }
 
-.navbar a{ margin-left: 0;
-    margin-right:50px;
-    font-size:x-large;
+.navbar a{ 
     font-family: "Raleway" , sans-serif;
     font-weight: 600; 
     color: rgba(0, 0, 0, 1.5);   
@@ -194,6 +192,11 @@ body{
    
 
    /*newsletter-sign up*/
+
+   
+
+   
+
    .join-us h4{
        font-family: "Raleway" , sans-serif;
        font-weight:bold;
@@ -207,17 +210,23 @@ body{
    
         
 
-   .join-us p{
-      
+   .join-us a{
+       
        font-family: "Raleway" , sans-serif;
        font-weight:600;
        margin-top: 25px;
+       color: black;
+   }
+
+   .join-us a :hover{
+       color: green;
+   }
+
+   .join-us p{
+       margin-top:25px;
    }
     
-    .form{
-        margin-top: 25px;
-    }   
-
+   
     .small-name{
         width:auto;
     }
@@ -293,6 +302,29 @@ body{
          font-family: "Raleway" , sans-serif;
       font-weight:300;
     }
+     
+    /*sign up*/
+
+    .sign-up{text-align: center;
+        font-family: "Raleway" , sans-serif;
+        font-weight: 600; 
+        margin-top: 25px;
+    }
+
+     .form{
+        margin-top: 25px;
+        max-width: 15rem;
+        text-align: center;
+    }   
+
+   
+
+    .form p{
+        font-family: "Raleway" , sans-serif;
+        font-weight:300;
+        font-size: small;
+    }
+
 
 
    
@@ -309,7 +341,15 @@ body{
     h2,h3,h4,h5,h6{
         font-size: inherit;
     }
-    
+
+    .navbar{
+    margin-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 50px;
+}
+    .navbar a{
+        font-size: medium;
+    }
 
     .fit-size{
         height:200px;
@@ -366,7 +406,16 @@ body{
      .services{
          margin-top: 25px;
      }
+      .form-center{
+        padding-left:80px;
     }
+
+    }
+
+    
+        
+        
+    
 
     
     
@@ -378,6 +427,16 @@ body{
         margin-top: 25px;
     }
 
+     .navbar{
+    margin-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 50px;
+}
+
+.navbar a{
+    font-size:medium;
+}
+
     
 
     .welcome h4{
@@ -388,6 +447,10 @@ body{
         margin-top: 25px;
     }
 
+    .join-us p{
+        text-align: center;
+    }
+
     .copyright{
     font-family: "Raleway" , sans-serif;
     font-weight: 600; 
@@ -395,6 +458,10 @@ body{
     margin-top: 25px;
     
 
+    }
+
+    .form-center{
+        padding-left: 280px;
     }
 }
 
@@ -404,8 +471,22 @@ body{
     height: 550px;
 }
 
+ .navbar{
+   margin-top: 40px;
+    padding-bottom: 25px;
+    margin-left: 0px;
+}
+
+.navbar a{
+    font-size:x-large;
+}
+
  footer h4{
         margin-top: 0px;
+    }
+
+     .form-center{
+        padding-left: 40.62rem;
     }
 }
 
