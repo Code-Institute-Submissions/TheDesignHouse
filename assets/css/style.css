@@ -243,7 +243,7 @@ body{
 
     /*project-page*/
 
-.projects h3{
+.projects-name h3{
     text-align: center;
     margin-top: 25px;
     font-family: "Raleway" , sans-serif;
@@ -253,7 +253,7 @@ body{
 
 
 
-.projects p{
+.projects-name p{
     text-align:center;
     font-family: "Raleway" , sans-serif;
     font-weight:300;
