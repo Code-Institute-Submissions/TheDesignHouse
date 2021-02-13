@@ -406,9 +406,7 @@ body{
      .services{
          margin-top: 25px;
      }
-      .form-center{
-        padding-left:80px;
-    }
+     
 
     }
 
@@ -460,9 +458,7 @@ body{
 
     }
 
-    .form-center{
-        padding-left: 280px;
-    }
+    
 }
 
 @media only screen and (min-width:992px){
@@ -485,9 +481,7 @@ body{
         margin-top: 0px;
     }
 
-     .form-center{
-        padding-left: 40.62rem;
-    }
+    
 }
 
 
