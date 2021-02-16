@@ -1,9 +1,11 @@
-# carousel
+# Homepage
+
+## Carousel
  When you open the website the carousel take a big space with these slides of bright pictures is the welcome door and the view to attracts users. 
 Is responsive and fluid with the controls.
-# main message
+## main message
  Main message located in the center is the first impact that the users eyes see. Is big and has a good impact (in my opinion)
-# footer
+## footer
 1. Large view, very intuitive with 3 sections the grey color match the whitesmoke background body colour.
 2. Here you can easily find the social icons with a light gray hover colour on the black. 
 For carry on with icons consistency i decided to add icons to the contact area.
@@ -12,13 +14,12 @@ For carry on with icons consistency i decided to add icons to the contact area.
 
 ## Desktop view 
 
-![Carousel-view](/)
-![main-message]
-![footer]()
+![Carousel-view](https://res.cloudinary.com/anto8913/image/upload/v1613503161/carousel_g4ex1e.jpg)
+![main-message](https://res.cloudinary.com/anto8913/image/upload/v1613504057/main-message_bk1sli.jpg)
+![footer](https://res.cloudinary.com/anto8913/image/upload/v1613504162/footer_lzfrnu.jpg)
 
 ## Tablet and smartphone view
 
-![]
 
 
 
