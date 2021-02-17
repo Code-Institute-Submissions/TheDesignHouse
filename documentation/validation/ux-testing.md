@@ -14,11 +14,7 @@ For carry on with icons consistency i decided to add icons to the contact area.
 
 ## Desktop view 
 
-![Carousel-view](https://res.cloudinary.com/anto8913/image/upload/v1613503161/carousel_g4ex1e.jpg)
-![main-message](https://res.cloudinary.com/anto8913/image/upload/v1613504057/main-message_bk1sli.jpg)
-![footer](https://res.cloudinary.com/anto8913/image/upload/v1613504162/footer_lzfrnu.jpg)
 
-## Tablet and smartphone view
 
 
 

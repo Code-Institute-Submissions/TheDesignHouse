@@ -318,65 +318,73 @@ body{
         font-size: inherit;
     }
 
+    /*index*/
+
     .navbar{
     margin-top: 25px;
     padding-bottom: 25px;
     margin-left: 50px;
 }
     .navbar a{
-        font-size: medium;
+    font-size: medium;
     }
 
+
+    /*carousel-image*/
     .fit-size{
-        height:200px;
+    height:200px;
     }
     
     .welcome h2{
-        text-align:center;
-        font-size: inherit;
+    text-align:center;
+    font-size: inherit;
     }
 
     .welcome p{
-        font-size: smaller;
+    font-size: smaller;
     }
+
+    /*footer*/
     
     footer h4{
-        margin-top: 25px;
+    margin-top: 25px;
     }
   
-
-
-
-    
-   
-   .icons i{
-       padding-right: 25px;
+    .icons i{
+    padding-right: 25px;
    }
+
+
     i{
-        font-size:small;
-        padding-right:25px;
+    font-size:small;
+    padding-right:25px;
     }
+
+    /*copyright*/
 
     .copyright{
     font-family: "Raleway" , sans-serif;
     font-weight: 600; 
     font-size: xx-small;
     margin-top: 25px;
-
     }
+
+    /*project*/
 
     .projects p{
-        font-size:x-small;
+    font-size:x-small;
     }
+
+    /*services*/
 
      .services p{
-       text-align: justify;
-       width:350px;
-       font-size:x-small;
+      text-align: justify;
+      width:350px;
+      font-size:x-small;
     }
 
-    ul{
-        font-size: x-small;
+      ul{
+      font-size: x-small;
     }
     
      .services{
@@ -388,41 +396,38 @@ body{
 
     
         
+    @media only screen and (min-width:768px){
+    
+      /*carousel-image*/
         
-    
-
-    
-    
- 
-
-@media only screen and (min-width:768px){
-    .fit-size{
-        height:380px;
-        margin-top: 25px;
+      
+      .fit-size{
+      height:380px;
+      margin-top: 25px;
     }
 
+    /*index*/
+
      .navbar{
-    margin-top: 25px;
-    padding-bottom: 25px;
-    margin-left: 50px;
-}
+     margin-top: 25px;
+     padding-bottom: 25px;
+     margin-left: 50px;
+     }
 
-.navbar a{
-    font-size:medium;
-}
-
-    
+    .navbar a{
+     font-size:medium;
+     }
 
     .welcome h4{
         text-align: center;
     }
 
      footer h4{
-        margin-top: 25px;
+    margin-top: 25px;
     }
 
     .join-us p{
-        text-align: center;
+    text-align: center;
     }
 
     .copyright{
@@ -430,31 +435,34 @@ body{
     font-weight: 600; 
     font-size: xx-small;
     margin-top: 25px;
-    
-
     }
 
     
 }
 
-@media only screen and (min-width:992px){
-    .fit-size{
-    
-    height: 550px;
-}
 
- .navbar{
-   margin-top: 40px;
+
+@media only screen and (min-width:992px){
+
+    /*carousel-image*/
+    .fit-size{
+    height: 550px;
+    }
+
+    /*index*/
+
+    .navbar{
+    margin-top: 40px;
     padding-bottom: 25px;
     margin-left: 0px;
-}
+    }
 
-.navbar a{
+    .navbar a{
     font-size:x-large;
-}
+    }
 
- footer h4{
-        margin-top: 0px;
+    footer h4{
+    margin-top: 0px;
     }
 
     
