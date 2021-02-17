@@ -6,6 +6,8 @@ body{
     
 }
 
+/*index.html*/
+
 .logo{
     margin-top: 35px;
 
@@ -36,9 +38,6 @@ body{
 }
 
 
-
-
-
 /*Welcome*/
 
 .main-message{
@@ -47,6 +46,14 @@ body{
     font-family: "Raleway" , sans-serif;
     font-weight: 600;
     }
+
+
+    .welcome h2{
+     font-family:"Raleway" , sans-serif;
+     font-weight:600;
+     text-align: center;
+     margin-top: 25px;
+     }
     
 
     
@@ -56,15 +63,7 @@ body{
     font-weight:300;
 }
 
-.welcome h2{
-     font-family:"Raleway" , sans-serif;
-     font-weight:600;
-     text-align: center;
-     margin-top: 25px;
-     
-    
 
-}
 
 /*why choose us*/
 
@@ -86,7 +85,6 @@ body{
 
 /*clients review*/
 
-
 .review h2{
     font-family:"Raleway" , sans-serif;
     font-weight:600;
@@ -100,25 +98,22 @@ body{
     font-weight:300;
     }
 
+    /*consultation*/
 
-.consultation h2{
-    text-align:center;
+    .consultation h2{
+     text-align:center;
      padding-top:25px;
      font-family:"Raleway" , sans-serif;
      font-weight:600;
-     
-
-}
+     }
 
 
+/*footer-contact-social-media-icons-join-us*/
 
-
-/*footer-social-media-icons*/
-
-.social-back-colour{
-    background-color: rgba(0, 0, 0, 0.1);
-    padding-top: 25px;
-    margin-top: 25px;
+    .social-back-colour{
+     background-color: rgba(0, 0, 0, 0.1);
+     padding-top: 25px;
+     margin-top: 25px;
 }
 
 /*contact-details*/
@@ -134,102 +129,82 @@ body{
    }
 
    .phone-margin-right{
-       margin-right: 6rem;
+    margin-right: 6rem;
    }
 
    
 
    .contact-details h4{
-      
-       font-family: "Raleway" , sans-serif;
-       font-weight:600;
+    font-family: "Raleway" , sans-serif;
+    font-weight:600;
    }
 
    .contact-details p{
-       margin-top: 25px;
-       font-family: "Raleway" , sans-serif;
-       font-weight:300;
+    margin-top: 25px;
+    font-family: "Raleway" , sans-serif;
+    font-weight:300;
    }
 
    .contact-details a{
-       color:black
+    color:black
    }
 
    .contact-details i{
-       font-size: x-large;
-       padding-right: 25px;
+    font-size: x-large;
+    padding-right: 25px;
    }
 
-.follow-us{
-    
+    .follow-us{
     text-align: center;
     font-family: "Raleway" , sans-serif;
     font-weight: 600;
-}
+    }
 
+    /*icons*/
 
+    .icons{
+     margin-top: 25px;
+     }
 
-.icons{
-   
-    margin-top: 25px;
-}
-
-.icons a{
+    .icons a{
     color:rgba(0, 0, 0, 1.5)
-}
+    }
 
-.icons a :hover{
+    .icons a :hover{
     color:rgba(0, 0, 0, 0.5);
-} 
+    } 
 
-.icons i{
+    .icons i{
     font-size:40px;
     color:rgba(0, 0, 0, 1.5);
     padding-right:50px;
-}
-
-
-   
-
-   /*newsletter-sign up*/
-
-   
-
-   
-
-   .join-us h4{
-       font-family: "Raleway" , sans-serif;
-       font-weight:bold;
-       text-align: center;
-      
     }
 
-  
+/*newsletter-sign up*/
 
+    .join-us h4{
+    font-family: "Raleway" , sans-serif;
+    font-weight:bold;
+    text-align: center;
+      }
 
-   
-        
-
-   .join-us a{
-       
-       font-family: "Raleway" , sans-serif;
-       font-weight:600;
-       margin-top: 25px;
-       color: black;
-   }
+  .join-us a{
+    font-family: "Raleway" , sans-serif;
+    font-weight:600;
+    margin-top: 25px;
+    color: black;
+    }
 
    .join-us a :hover{
-       color: green;
+    color: green;
    }
 
    .join-us p{
-       margin-top:25px;
+    margin-top:25px;
    }
     
    
-    .small-name{
-        width:auto;
-    }
+    
 
     /*copyright*/
 
