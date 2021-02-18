@@ -27,7 +27,7 @@ PDF file with no errors ![services.html](https://github.com/antoniotorone/1st-mi
 * The sign up page came out with not errors but one warning about a section tag. The validator device me to use header tag such us: h1,h2 etc..
 I didn't modify the page and run another test becuase I founded the warning minimal and doesn't affect my codes.
 
-PDF file with no errors ![sign-up.html](https://github.com/antoniotorone/1st-milestone-project/blob/master/documentation/validation/validation-test-PDF/sign%20up.html.pdf)
+PDF file with no errors ![sign-up.html]
 
 
 # Css (style.css)
