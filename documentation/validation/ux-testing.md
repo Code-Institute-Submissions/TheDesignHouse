@@ -37,7 +37,7 @@ The sign up button comes with green color as well the reasons to use it are the 
 ![interior-link](https://res.cloudinary.com/anto8913/image/upload/v1613647565/interior_link-hover-color_royip5.jpg)
 ![sign-up-button](https://res.cloudinary.com/anto8913/image/upload/v1613647107/sign-up_button_hover_jnxorh.jpg)
 
-## Project
+# Project
 
 * The page is made up with 3 work project images and project explenation where 3 external links to wikipedia are located and marked. 
 The reason to mark up the links is to make the user curious and discover more about the interior style.
@@ -46,15 +46,16 @@ The reason to mark up the links is to make the user curious and discover more ab
 ![external-links-to-wikipedia](https://res.cloudinary.com/anto8913/image/upload/v1613646641/rustic-wiki_yslgar.jpg)
 (https://res.cloudinary.com/anto8913/image/upload/v1613646649/french-wiki_nyaqbm.jpg)
 (https://res.cloudinary.com/anto8913/image/upload/v1613646655/industrial-wiki_xp5dcu.jpg)
-## Services
 
-# Color package
+# Services
+
+## Color package
 
 * The first part of the page is made up with a picture that got the border-radius of 75%. The purpose of the image is to show up the kind of the meeting with the costumer to discuss the package.
 On the right you can find the explenation of the package plus the price.
 ![screenshot]
 
-# Interior service package
+## Interior service package
 
 * The second part is made up with the second service package that include one picture with border-radius of 75%. The purpose is the same above, show up the meeting.
 This package got an explenation test with the price.
