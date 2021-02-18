@@ -20,7 +20,7 @@ For carry on with icons consistency i decided to add icons to the contact area.
 
 ## colors
 
-* For to keep the colour style and do a good contrast, from the whitesmoke body background color, to footer and other elemenet such as logo, navbar I decided for black and for the contents inside footer I got black as well.
+* For to keep the color style and do a good contrast, from the whitesmoke body background color, to footer and other elemenet such as logo, navbar I decided for black and for the contents inside footer I got black as well.
 
 ![header-color](https://res.cloudinary.com/anto8913/image/upload/v1613646608/logo_and_navbar_color_contrast_iqhkxj.jpg)
 ![contents-color](https://res.cloudinary.com/anto8913/image/upload/v1613646614/contents_color_contrast_rv7p69.jpg)
@@ -28,10 +28,10 @@ For carry on with icons consistency i decided to add icons to the contact area.
 
 ## hover
 
-* The hover pseudo-class is present inside the footer in every pages, on the icons, the <p> with interior link below join us, and  the sign up button located on the sign up page below the newsletter form.
+* The hover pseudo-class is present inside the footer in every pages, on the icons, on the paragraph with interior link below join us, and  the sign up button located on the sign up page below the newsletter form.
 The colour chosen on the icons is a rgba black color with 0.5 of transparency that makes a pretty good contrast.
-For the <p> I chosen a green color for attract and invite the users to click on.
-The sign up button comes with green color as well the reasons to use it are the same for the <p> above.
+For the paragraph I chosen a green color for attract and invite the users to click on.
+The sign up button comes with green color as well the reasons to use it are the same for the paragraph above.
 
 ![icons-hover](https://res.cloudinary.com/anto8913/image/upload/v1613647562/icons-hover-color_giaese.jpg)
 ![interior-link](https://res.cloudinary.com/anto8913/image/upload/v1613647565/interior_link-hover-color_royip5.jpg)
@@ -43,9 +43,9 @@ The sign up button comes with green color as well the reasons to use it are the 
 The reason to mark up the links is to make the user curious and discover more about the interior style.
 
 ![project-view](https://res.cloudinary.com/anto8913/image/upload/v1613646636/project_h2rhnp.jpg)
-![external-links-to-wikipedia](https://res.cloudinary.com/anto8913/image/upload/v1613646641/rustic-wiki_yslgar.jpg)
-(https://res.cloudinary.com/anto8913/image/upload/v1613646649/french-wiki_nyaqbm.jpg)
-(https://res.cloudinary.com/anto8913/image/upload/v1613646655/industrial-wiki_xp5dcu.jpg)
+![rustic-style-link-to-wikipedia](https://res.cloudinary.com/anto8913/image/upload/v1613646641/rustic-wiki_yslgar.jpg)
+![french-style-link-to-wikipedia](https://res.cloudinary.com/anto8913/image/upload/v1613646649/french-wiki_nyaqbm.jpg)
+![industrial-style-link-to-wikipedia](https://res.cloudinary.com/anto8913/image/upload/v1613646655/industrial-wiki_xp5dcu.jpg)
 
 # Services
 
@@ -53,7 +53,7 @@ The reason to mark up the links is to make the user curious and discover more ab
 
 * The first part of the page is made up with a picture that got the border-radius of 75%. The purpose of the image is to show up the kind of the meeting with the costumer to discuss the package.
 On the right you can find the explenation of the package plus the price.
-![screenshot]
+
 
 ## Interior service package
 
