@@ -35,4 +35,11 @@ PDF file with no errors ![sign-up.html](https://github.com/antoniotorone/1st-mil
 The first time that i run, the test came out with some errors such as: 2 value inside text-align propety (justify and center) multiple times. 
 I fixed deleting the justify value. I run the test for the second time and came out with no errors.
 
-PDF file with no errors ![]
+PDF file with no errors ![style.css](https://github.com/antoniotorone/1st-milestone-project/blob/master/documentation/validation/validation-test-PDF/W3C%20CSS%20Validator%20results.pdf)
+
+
+# Lighthouse test
+
+I have also included the lighthouse test from Chrome developer tools
+
+PDF file ![lighthouse-test]()
