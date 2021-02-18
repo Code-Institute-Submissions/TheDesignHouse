@@ -70,6 +70,7 @@ The placeholder is placed and the required works perfectly.
 
 ![form](https://res.cloudinary.com/anto8913/image/upload/v1613647097/snewsletter-form-middle_rziv4b.jpg)
 ![button-hover](https://res.cloudinary.com/anto8913/image/upload/v1613647107/sign-up_button_hover_jnxorh.jpg)
+![required-verification] (https://res.cloudinary.com/anto8913/image/upload/v1613657560/required_s9ytzj.jpg)
 
 
 
