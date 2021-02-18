@@ -42,4 +42,4 @@ PDF file with no errors ![style.css](https://github.com/antoniotorone/1st-milest
 
 I have also included the lighthouse test from Chrome developer tools
 
-PDF file ![lighthouse-test]()
+PDF file ![lighthouse-test](https://github.com/antoniotorone/1st-milestone-project/blob/master/documentation/validation/validation-test-PDF/lighthouse-test.pdf)
