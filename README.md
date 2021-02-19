@@ -1,6 +1,6 @@
 # Antonio Torone Milestone project 1 - User Centric Frontend Development
 
-[View here the ive project.](url dopo il deployment)
+[View here the live project.](url dopo il deployment)
 
 ## The Designhouse website
 
@@ -34,7 +34,7 @@
 
 #### Colour scheme
 
-The mani colour used around the website are the body background colour whitesmoke, black and grey.
+The main colours used around the website are the body background colour whitesmoke, black and grey.
 
 #### Typography
 
@@ -76,7 +76,7 @@ All devices wireframes PDF file [View](https://github.com/antoniotorone/1st-mile
 1. [Google-fonts:](https://fonts.google.com/)
    Google fonts was used to import "Ralway 300 and 600 font into the style.css file wich used on all pages throughout the project.
 
-1. [Font-awesome:] (https://fontawesome.com/)
+1. [Font-awesome:](https://fontawesome.com/)
    Font awesome was used throughout the website to add icons for aesthetic and ux purposes.
 
 1. [Git:](https://git-scm.com/)
