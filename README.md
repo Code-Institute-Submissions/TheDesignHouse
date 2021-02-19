@@ -189,13 +189,13 @@ Navbar, carousel, form and the sign up button codes has been taken from here.
 
 ### Content
 
-Some contents were written by the developer and some were founded to the interior design website Owl Design
-[Owl-Design](https://www.owldesign.co.uk/).
+Some contents were written by the developer and some were founded to the interior design website Owl Design. 
+[View-website](https://www.owldesign.co.uk/).
 
 ### media
 
 All images were written taken from the website Unsplash, only the logo was created by the developer.
-[Unsplash](https://unsplash.com/)
+[View-website](https://unsplash.com/)
 
 ### Acknowledgements
 
