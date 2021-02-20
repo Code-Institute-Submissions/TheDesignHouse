@@ -93,7 +93,7 @@ body{
     background-color: rgba(0, 0, 0, 0.1);}
 
     .review p{
-    text-align: justify;
+    text-align: center;
     font-family: "Raleway" , sans-serif;
     font-weight:300;
     }
@@ -120,6 +120,7 @@ body{
 
    .contact-details{
        text-align: center;
+       font-size: small;
    }
 
     .contact-details h6{
@@ -218,7 +219,7 @@ body{
 
     /*project-page*/
 
-.projects-name h3{
+.projects-name{
     text-align: center;
     margin-top: 25px;
     font-family: "Raleway" , sans-serif;
@@ -228,7 +229,7 @@ body{
 
 
 
-.projects-name p{
+.projects-p{
     text-align:center;
     font-family: "Raleway" , sans-serif;
     font-weight:300;
@@ -372,19 +373,18 @@ body{
     /*project*/
 
     .projects p{
-    font-size:x-small;
+    font-size:smaller;
     }
 
     /*services*/
 
      .services p{
-      text-align: justify;
-      width:350px;
-      font-size:x-small;
+      text-align: center;
+      font-size:smaller;
     }
 
       ul{
-      font-size: x-small;
+      font-size: smaller;
     }
     
      .services{
