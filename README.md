@@ -1,6 +1,6 @@
 # Antonio Torone Milestone project 1 - User Centric Frontend Development
 
-[View here the live project.](url dopo il deployment)
+[View-here-the-live-project.](https://antoniotorone.github.io/1st-milestone-project/)
 
 ## The Designhouse website
 
@@ -8,7 +8,7 @@
  It  Is responsibe to all  advices, very important today where the majority of people use the phone for almost everything. 
  In this way the agency get the power to promote easily herself and be easy finded from everyone and  become more popular 
 
- <h2 align="center"><img src="url iamresonsive screenshot here from clouditary"></h2>
+ <h2 align="center"><img src="https://res.cloudinary.com/anto8913/image/upload/v1613828329/I_am_responsive_f2gsrd.jpg"></h2>
 
  ## User Experience (UX)
 
