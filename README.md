@@ -152,9 +152,9 @@ The Lighthouse test was used to check the performance, best practices and accesi
 
 ### Testing
 
-The website was testing in Google Chrome, Internet Explorer and Opera browser.
+The website was testing in Google Chrome, Microsof edge  and Opera browser.
 
-The website was viewed on a different devices such as: laptop, iphone 7, iphone 8.
+The website was viewed on a different devices such as: laptop, iphone 11 pro, iphone 8 sony xperia x1 compact, sony xperia xa ultra.
 
 ### Known Bugs
 
