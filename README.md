@@ -114,60 +114,61 @@ The Lighthouse test was used to check the performance, best practices and accesi
 
 1. As a first-time visitor, I want to understand the website main purpose easily
 
-   1. Upon entering website, the style of the logo has a big impact, especially with these lamp wrapping the agency name and the carousel slides image that show the agency job.
+   1. When entering the website, the logo style has a big impact on the visitor, especially with these lamps wrapping the agency name and representing the interior design website. Continuing with the web page browsing, you will find the carousel that shows various agency works images.
 
 2. As a first time visitor i want to be able to navigate around and get access to the information needed easily.
 
-   1. The user can discover more using the navigation bar positioned on the right above the carousel. It wa made big to get the attention and easy to find it.
+   1. The user can find out more using the navigation bar positioned above the carousel on the right. It has been designed with a big size to get the visitor attention and offer an easy browsing.
 
-   2. The footer has a lot of information. Is made to get easily and quickly the main-information such as: phone, email for any consultation and a interior link that bring the user straight to the sign up page newsletter.
+   2. The footer has been designed to include the main information such as: how to contact the agency, follow it on the social networks, subscribe to the newsletter with a single click that brings you to the sign up page.
 
 3. As a first-time visitor, the main thing I would like to see is the pictures and project creativity.
 
-   1. The website is full of pictures used to show the work and the stilish. These can be seen very easy with the carousel on the home page and in the project page, accesible through the navigation bar.
-      The project page show 3 pictures for any 3 projects.
+   1. The website includes many pictures used as examples to show the agency projects and style. These can be appreciated very easily through the carousel and the project page, accessible through the browsing bar and representing three images each project.
+ 
 
 ### Returning visitor goals
 
 1. As a returning visitor I want to find out about the best way to get in contact with the organisation with any questions I may have.
 
-    1. The footer is made with the contact us section, also highlighted with icons on the phone number, email and the open time.
+    1. The footer contains the contact us section, where you can also find three icons which facilitate the info comprehension.
 
-    2. The follow us section contains the major social media such us: instagram, facebook, pinterest and behance where is possible to get in touch easily.
+    2. The follow us section contains the major social media icons such as: instagram, facebook, pinterest and behance where you can easily get in touch with the agency through email or chat.
 
 2. As a frequent user I want to see updated social media pages with new pictures, projects, offers.
 
-    1. Reach new projects and new pictures is made possible through the social media and with the join us section inside the footer, where you can find an internal link that bring the user quickly to the sign-up page for a newsletter.
-       In this way the user is always updated.
+    1. Inside the footer, it is possible to find out about  new projects and pictures through the follow us section with the main social networks and the join us section where you can find an internal link that brings the user to the newsletter sign-up page quickly. In this way the user is always updated.
 
 #### Frequent user goals
 
 1. As a frequent user I want to find out about more services with price or monthly offers or packages. 
 
-    1. The services page, easily visible on the navbar include packages and price and is always monitored and updated.
+    1. The services page, easily visibile on the navbar, includes offered services, packages with relative prices, and is always monitored and updated.
 
 2. As a frequent user I want to see updated social media pages with new pictures, projects, offers.
 
-    1. The join us section inside the footer has a internal link to sign up for a newsletter or use the navbar to navigate to the sign up page.
+    1. The join us section inside the footer has an internal link to the newsletter sign up page.
 
 ### Testing
 
 The website was testing in Google Chrome, Microsof edge  and Opera browser.
 
-The website was viewed on a different devices such as: laptop, iphone 11 pro, iphone 8 sony xperia x1 compact, sony xperia xa ultra.
+The website was viewed on different devices such as: laptop, iphone 11 pro, iphone 8 sony xperia x1 compact, sony xperia xa ultra.
 
 ### Known Bugs
 
-While working on the header and carousel I founded difficult to fit fit the size of images and navbar inside the grid-system chosen. 
-I got overflow on all devices. This has been fixed using photoshop to resize images and Bootstrap grid-system with offset class to fit the navbar.
+While working on the header and carousel I found difficult to adapt the size of images to their own element. The most difficult part was the overflow obtained in all types of devices and to adapt the navbar to the chosen grid-system. This has been fixed using photoshop to resize the images and Bootstrap grid-system with offset class to fit the navbar.
 
-It was not easy during the project fit all contents inside the small size screen, that's why i created a media query for all screen sizes.
+During the project, it was not easy to fit all contents inside small sized screen devices, and that's why I thought it was appropriate to create a media query for all screen sizes.
 
-The major difficulty has been try to place contents with grid-system. I the beginning I used property such us: margin-left, right to move the contents, in all screen sizes.
-During the projects I started to use bootstrap grid-system offset classes to place the contents without use often the property box.
+It was very hard to locate contents with the grid-system. In the beginning, I used property such as: margin-left, right to move the contents, in all screen types.
 
-The form in sign up page was not working and required attribute even. My mistake was to not include all form inside the form element.
-This has been fixed.
+During the projects I started to use bootstrap grid-system offset classes to place the contents without often using the property box.
+
+The form inside the sign up page, as well the attribute required were not working initially- My mistake was to not include the input elements and button  inside the form element. This has then been fixed.
+
+
+
 
 ## Deployment
 
@@ -175,9 +176,19 @@ This has been fixed.
 
 The project was deployed to Github using the following steps.
 
-1. 
+1. Log in to GitHub and locate the [Github-Repositery](https://github.com/antoniotorone?tab=repositories)
 
-2.
+2. At the top of the repositery on the right is locate settings
+
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+
+5. The page will automatically refresh.
+
+6. Scroll back down through the page to locate the now published site []
+
+## Credits
 
 ### code
 
