@@ -116,12 +116,15 @@ The Lighthouse test was used to check the performance, best practices and access
 
    1. When entering the website, the logo style has a big impact on the visitor, especially with these lamps wrapping the agency name and representing the interior design website. Continuing with the web page browsing, you will find the carousel that shows various agency works images.
       [View here](https://res.cloudinary.com/anto8913/image/upload/v1614344093/first-time-visitor_tawcpq.jpg)
+
 2. As a first time visitor i want to be able to navigate around and get access to the information needed easily.
 
-   1.The user can find out more using the navigation bar positioned above the carousel on the right. It has been designed with big size to get visitors attention and offer easy browsing.
+   1. gThe user can find out more using the navigation bar positioned above the carousel on the right. It has been designed with big size to get visitors attention and offer easy browsing.
       [View here](https://res.cloudinary.com/anto8913/image/upload/v1614344093/first-time-visitor_tawcpq.jpg)
+   
    2. The footer has been designed to include the main information such as: how to contact the agency, follow it on the social networks, subscribe to the newsletter with a single click that brings you to the sign up page.
       [View here](https://res.cloudinary.com/anto8913/image/upload/v1614344244/first-time-visitor-footer_pjdm25.jpg)
+
 3. As a first-time visitor, the main things I would like to see are the pictures and project creativity.
 
    1. The website includes many pictures used as examples to show the agency projects and style. These can be appreciated very easily through the carousel and the project page, accessible through the browsing bar and representing three images of each project.
